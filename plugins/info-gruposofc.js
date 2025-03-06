@@ -11,21 +11,21 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- instagram.com/_love.xmjhi
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+2.- instagram.com/_love.xmjhi
 
-3.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+3.- instagram.com/_love.xmjhi
 
-4.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+4.- instagram.com/_love.xmjhi
 
-> KillzN Store OFC :
+> Mehi Store OFC :
 
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+1.- instagram.com/_love.xmjhi
 
-2.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
+2.- instagram.com/_love.xmjhi`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/KillzN`},
+    'document': {url: `https://github.com/Mehi`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -34,7 +34,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/KillzND',
+        'mediaUrl': 'https://github.com/MehiD',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,
